@@ -33,8 +33,5 @@ public class WelcomerTest {
 	@Test
 	public void welcomerSaysPheasantHunter(){
 		assertThat(welcomer.sayHunter(), containsString("hunter"));
-<<<<<<< HEAD
-=======
 	}
->>>>>>> feature/add_reply
 }
