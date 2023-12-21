@@ -13,11 +13,7 @@ public class Welcomer{
 	public String saySome(){
 		return "something in the way";
 	}
-<<<<<<< HEAD
-	public String sayHunter(){
-=======
     public String sayHunter(){
->>>>>>> feature/add_reply
 		return "every hunter wants to know where the pheasant sits";
 	}
 }
